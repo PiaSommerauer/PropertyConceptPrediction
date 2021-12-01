@@ -1,0 +1,23 @@
+property,top-5,mean-prob
+square,empty open closed gone ringing,0.050444949225833015
+warm,white black gone red empty,0.045090017036387806
+black,white black dead female male,0.020826171129528018
+red,white edible red green gone,0.030590690087284083
+fly,##s family stopped hood river,0.022299351680737278
+dangerous,dead empty gone over extinct,0.02116873681351736
+wings,wings disappeared died legs none,0.03707429944060561
+sweet,white edible green red sweet,0.0352180236329635
+hot,empty cold white hot delicious,0.0248634494515588
+used_in_cooking,eat do make say cook,0.07681040538931794
+juicy,white edible green red yellow,0.03344723159123374
+green,white edible green red empty,0.02963147938370388
+made_of_wood,wood steel concrete brass plastic,0.0831083939038217
+blue,white black gone empty green,0.028502140268683435
+yellow,white edible green yellow red,0.028420260955774507
+roll,stopped ##s opened coaster tightened,0.02747515750371597
+female,up interest it herself her,0.14038574821296562
+cold,empty white cold gone smooth,0.028756869004241053
+round,white empty edible green red,0.03245851166220834
+wheels,disappeared stopped no survived none,0.04259790926455305
+lay_eggs,eggs egg down young there,0.18617603238547836
+swim,##s nodded asked bass ##a,0.022033242124252686

@@ -1,0 +1,23 @@
+property,top-5,mean-prob
+square,base shape plan top aperture,0.08791559003293514
+warm,air water night room day,0.11054498702287674
+black,head body abdomen male tail,0.06728807389736176
+red,iris color fruit colour flower,0.05905604064464569
+fly,bullet bullets blade bird knife,0.03542991429567337
+dangerous,place water man road land,0.030193877592682838
+wings,male female abdomen species hind,0.1420510619878769
+sweet,taste smell food water wine,0.0668256614357233
+hot,air room water sun place,0.0857525922358036
+used_in_cooking,fire microwave pot time stove,0.04854175075888634
+juicy,fruit meat flesh bread food,0.11989065371453762
+green,background flag underside colour border,0.0867813490331173
+made_of_wood,frame church structure bell base,0.05481852665543556
+blue,background color other colour flag,0.06250186450779438
+yellow,underside base hindwings tip belly,0.11355077587068081
+roll,car helicopter truck boat plane,0.0481541320681572
+female,woman girl queen lady witch,0.10208939984440804
+cold,air night room water day,0.12289045602083207
+round,fruit aperture shell snout body,0.15184943228960038
+wheels,car vehicle truck bike boat,0.08046457841992379
+lay_eggs,female male species queen females,0.19805442173965276
+swim,boat water boy world fish,0.032832874730229375
